@@ -22,3 +22,6 @@ Thumbs.db
 *.local
 .vscode/
 .idea/
+
+# Local portfolio preview images
+portfolio-previews/
